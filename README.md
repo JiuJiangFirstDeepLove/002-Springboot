@@ -1,4 +1,4 @@
-# 基于Springboot的校园疫情防控系统登录
+# 基于Springboot的校园疫情防控系统
 
 # Springboot-002
 
